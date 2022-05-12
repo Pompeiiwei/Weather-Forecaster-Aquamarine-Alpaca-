@@ -1,0 +1,33 @@
+.App {
+  margin-top:40px;
+  width: auto;
+  height: auto;
+  background-image: url("CP.jpg");
+  background-repeat:repeat-y;
+  background-color: aquamarine;
+  background-size:100%;
+  background-attachment: fixed
+}
+.Search{
+  margin:0 auto;
+  margin-top: 2em;
+  border-radius: 20px;
+}
+.Map{
+  width: 30em;
+  height: 30em;
+  background: white;
+  margin:0 auto;
+  margin-top: 60px;
+}
+.Weather{
+  margin-top: 40px;
+  width: fit-content;
+  height:620px;
+  background: rgba(40,44,52,0.7);
+  border-radius: 20px;
+  padding: 30px 30px;
+  color: white;
+  display: block;
+}
+
